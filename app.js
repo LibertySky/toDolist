@@ -17,7 +17,7 @@ app.listen(process.env.PORT || 3000, function () {
 
 // creating new bd
 mongoose.connect(
-	'mongodb+srv://liberty_21:6toOVOwRxm9OvMu9@nodetrainings.bs1tk.mongodb.net/toDoList?retryWrites=true&w=majority',
+	'mongodb+srv://liberty_21:yrt4NKpvbJqRzlah@nodetrainings.bs1tk.mongodb.net/toDoList?retryWrites=true&w=majority',
 	{
 		useNewUrlParser: true,
 		useUnifiedTopology: true,
